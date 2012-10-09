@@ -1,0 +1,1 @@
+I like Java because we don't have to worry about pointers and we don't have to do all the workarounds we did in c++
