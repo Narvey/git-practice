@@ -2,4 +2,4 @@ I like Java because we don't have to worry about pointers and we don't have to d
 Mike's mikegit branch - mike likes git because... ahh...beats me!
 Mike - yay, that worked. I was able to see separation between the branches and then merge them.
 Mike's mikejava branch - I liked java because it tells you what to do next.
-
+Mike - this line was added after the 3rdBranch line, before the two branches were merged. 
