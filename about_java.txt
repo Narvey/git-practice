@@ -3,3 +3,6 @@ Mike's mikegit branch - mike likes git because... ahh...beats me!
 Mike - yay, that worked. I was able to see separation between the branches and then merge them.
 Mike's mikejava branch - I liked java because it tells you what to do next.
 
+How to whack all the local changes:
+git reset --hard origin/master
+
